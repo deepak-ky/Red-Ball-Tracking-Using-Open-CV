@@ -1,0 +1,4 @@
+﻿  Open_CV_Red_Object_Tracking.cpp
+C:\Users\DEEPAK\source\repos\Open_CV_Red_Object_Tracking\Open_CV_Red_Object_Tracking.cpp(79,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DEEPAK\source\repos\Open_CV_Red_Object_Tracking\Open_CV_Red_Object_Tracking.cpp(80,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Open_CV_Red_Object_Tracking.vcxproj -> C:\Users\DEEPAK\source\repos\Open_CV_Red_Object_Tracking\x64\Debug\Open_CV_Red_Object_Tracking.exe
